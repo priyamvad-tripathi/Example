@@ -1,5 +1,6 @@
-This is a sample script that I made to estimate ellipticities from simulated radio galaxies (true images without any noise or PSF artefacts). 
-The galaxy properties: size, flux nad ellipticity are taken from the TRECS catalog and are saved in the pickle file catalog.pkl.
+This is a sample script that I made to estimate ellipticities from simulated radio galaxies (true images without any noise or PSF artefacts). <br/>
+The galaxy properties: size, flux nad ellipticity are taken from the TRECS catalog and are saved in the pickle file catalog.pkl. <br/>
+The scale is chosen based on the antenna array configuaration. <br/> 
 
 
 I used three differenr methods to calculate ellipticities: <br />
@@ -19,7 +20,7 @@ It might be due to incorrect priors on ellipticty and/or galaxy size <br />
 But I am not sure how to make it work for my case <br />
 
 
-These results are quite suprising since the images I am using do not have any noise or PSF affects <br />
+These results are quite suprising since the images I am using do not have any noise or PSF effects <br />
 and thus the measurements should be quite accurate. However, this is not the case.
 
 
