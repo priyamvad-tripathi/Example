@@ -22,7 +22,8 @@ But I am not sure how to make it work for my case <br />
 
 These results are quite suprising since the images I am using do not have any noise or PSF effects <br />
 and thus the measurements should be quite accurate. However, this is not the case. <br />
-The galaxy size might be a potential reason for the bias but as far as I recall, optical galaxies have similar size <br />
-so maybe the size is not the main issue.
 
+Galaxy size might be a potential reason for the bias as the bias decreases for bigger galaxies <br />
+However as far as I recall, optical galaxies have similar sizes so perhaps this is not the main <br />
+issue after all.
 
