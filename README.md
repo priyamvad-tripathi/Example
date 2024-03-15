@@ -15,7 +15,7 @@ the residual bias is at the $10^{-2}$ level. <br />
 
 Sf_tools always returns a positive ellipticty value somehow and I derive the correct sign using GalSim measurements. <br />
 
-ngmix always returns a circular ellipticity ($\approx10^{-8}$) although the flux estimation is not too off <br />
+ngmix always returns a circular ellipticity ($\sim10^{-8}$) although the flux estimation is not too off <br />
 It might be due to incorrect priors on ellipticty and/or galaxy size <br />
 But I am not sure how to make it work for my case <br />
 
