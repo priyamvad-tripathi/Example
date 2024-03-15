@@ -3,7 +3,7 @@ The galaxy properties: size, flux nad ellipticity are taken from the TRECS catal
 The scale is chosen based on the antenna array configuaration. <br/> 
 
 
-I used three differenr methods to calculate ellipticities: <br />
+I used three different methods to calculate ellipticities: <br />
 a. Galsim.HSM module (https://galsim-developers.github.io/GalSim/_build/html/hsm.html) <br />
 b. Sf_tools package (https://github.com/sfarrens/sf_tools/blob/master/sf_tools/image/shape.py) <br />
 c. ngmix (https://github.com/esheldon/ngmix/blob/master/examples/fitting/fitting.py) <br />
