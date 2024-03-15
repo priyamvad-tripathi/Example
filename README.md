@@ -20,6 +20,6 @@ But I am not sure how to make it work for my case <br />
 
 
 These results are quite suprising since the images I am using do not have any noise or PSF affects <br />
-and thus the measurements should be quite accurate. However, this is not the case. __
+and thus the measurements should be quite accurate. However, this is not the case.
 
 
